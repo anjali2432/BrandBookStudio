@@ -1,0 +1,25 @@
+LOSS FUNCTION:
+
+mean square error  - used to calc the risk functio or loss function
+- how close line is to a given of data points
+  taking the average of square error is mse
+  square error is diffrence between actual and predict value and square it
+
+mean absolute error - same
+- it find the average diffirence between actual and predict value
+
+R squared  - measure the value of dept feature that eapalin indept feature
+- find goodness of fit of a linear regression model
+
+ r2 =1− ( Sum of Squared Residuals (SSR) / Total Sum of Squares (SST) )
+
+​ssr - sum of square diffrence between acutal and predict
+sst - sum of squre diffrence between acutal and  and mean of acutal value.
+
+Adjusted R2 - same as r2 but we can add no of predict in the model
+
+adj_r2 =1− ((1−R2).(n−1) / (n−k−1))
+
+​n- no of data set point 
+k- no of indept feature 
+ 

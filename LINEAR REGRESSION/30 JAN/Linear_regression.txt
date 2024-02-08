@@ -1,1 +1,16 @@
+LINEAR REGRESSION
 
+Linear regression is a supervised machine learning algorithm that predicts a continuous target variable based on one or more independent variables.
+
+indept feature (1) - univariable
+more than one indept feature - multi variable
+
+Simple Linear Regression
+This is the simplest form of linear regression, and it involves only one independent variable and one dependent variable. The equation for simple linear regression is:
+y=β0+β1X       
+
+Multiple Linear Regression
+This involves more than one independent variable and one dependent variable. The equation for multiple linear regression is:
+y=β0+β1X1+β2X2+………………+βnXn 
+
+The best Fit Line equation provides a straight line that represents the relationship between the dependent and independent variables. The slope of the line indicates how much the dependent variable changes for a unit change in the independent variable(s).
